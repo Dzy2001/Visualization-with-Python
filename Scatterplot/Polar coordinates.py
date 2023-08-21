@@ -12,7 +12,7 @@ colors = theta
 #fig = plt.figure(figsize = (12, 12))
 #ax = fig.add_subplot(projection='polar')
 #c = ax.scatter(theta, r, c=colors, s=area, cmap='hsv', alpha=0.75)
-#plt.savefig('极坐标散点图.png', dpi = 250)
+#plt.savefig('polar coordinates.png', dpi = 250)
 
 fig = plt.figure(figsize = (12, 12))
 ax = fig.add_subplot(projection='polar')
